@@ -1,3 +1,6 @@
+MAIN WEBSITE FROM AZURE: https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/using-github-actions-amp-azure-machine-learning-for-mlops/ba-p/1419027
+
+
 ### **INFO: Please visit the following repository to get started with Github Actions for AML: https://github.com/machine-learning-apps/ml-template-azure**. The repository gets actively maintained and monitored.
 
 # ML Ops with GitHub Actions and AML
